@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_green_dark</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the activities category -->
+    <color name="category_activities">#795548</color>
+
+    <!-- Background color for the beaches category -->
+    <color name="category_beaches">#00BCD4</color>
+
+    <!-- Background color for the sights category -->
+    <color name="category_sights">#2EB508</color>
+
+    <!-- Background color for the sights category -->
+    <color name="category_dining">#8C0B01</color>
+</resources>

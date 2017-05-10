@@ -1,0 +1,391 @@
+<resources>
+    <string name="app_name">Tamarindo Guide</string>
+
+    <!-- Category name for beaches [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for the dining [CHAR LIMIT=20] -->
+    <string name="category_dining">Dining</string>
+
+    <!-- Category name for activities [CHAR LIMIT=20] -->
+    <string name="category_activities">Activity</string>
+
+    <!-- Category name sights [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Activity titles -->
+    <!-- Activity title for ATV Tours [CHAR LIMIT=20] -->
+    <string name="activity_atv">ATV Tours</string>
+
+    <!-- Activity title for Fishing [CHAR LIMIT=20] -->
+    <string name="activity_fishing">Fishing</string>
+
+    <!-- Activity title for Kayaking [CHAR LIMIT=20] -->
+    <string name="activity_kayaking">Kayaking</string>
+
+    <!-- Activity title for Paddle Boarding [CHAR LIMIT=20] -->
+    <string name="activity_paddleBoarding">Paddle Boarding</string>
+
+    <!-- Activity title for Rafting [CHAR LIMIT=20] -->
+    <string name="activity_rafting">Rafting</string>
+
+    <!-- Activity title for Sailing [CHAR LIMIT=20] -->
+    <string name="activity_sailing">Sailing</string>
+
+    <!-- Activity title for Surfing [CHAR LIMIT=20] -->
+    <string name="activity_surfing">Surfing</string>
+
+    <!-- Activity title for Zipline [CHAR LIMIT=20] -->
+    <string name="activity_zipline">Zipline</string>
+
+    <!-- Activity descriptions -->
+    <!-- Activity description for ATV Tours [CHAR LIMIT=NONE] -->
+    <string name="activity_description_atv">ATV tours in Tamarindo get you off the beaten path and
+        out into the tropical forest. Rain or shine, these tours cater to the adventurous traveler
+        not content with the sights to be seen only on oft-traveled roads. Tamarindo ATV tours take
+        you into the bush, along the beach, under the canopy of the forest and across rivers and
+        streams otherwise inaccessible by normal means.</string>
+
+    <!-- Activity description for Sailing [CHAR LIMIT=NONE] -->
+    <string name="activity_description_sailing">Take to the high seas on a sailing cruise aboard one
+        of the many catamarans and schooners for hire. Most tours are all inclusive with an open bar
+        and snacks or meals. Day cruises will sail to nearby Costa Rican beaches, some of which are
+        only accessible by ocean. One of the best ways to enjoy one of local glorious sunsets is
+        aboard a sail vessel, with the wind in your hair, a drink in your hand and nothing but the
+        sound of the ocean in your ears.</string>
+
+    <!-- Activity description for Fishing [CHAR LIMIT=NONE] -->
+    <string name="activity_description_fishing">Sportfishing for rooster fish, tuna, wahoo, dorado
+        and catch-and-release billfish in Tamarindo is excellent year round and the close proximity
+        to the continental shelf makes for a very short run time. Most restaurants will prepare the
+        anglers catch of the day.</string>
+
+    <!-- Activity description for Kayaking [CHAR LIMIT=NONE] -->
+    <string name="activity_description_kayaking">Taking a Kayak Tour to the Tamarindo Estuary offers
+        an adventure through a wildlife filled nature setting.  The estuary sits between Tamarindo
+        Beach and Playa Grande. A tour provides an opportunity to view some Costa Rican animals
+        including crocodiles, iguanas, monkeys, and a variety of bird species. Another option is
+        along the coast to one of the nearby islands.  Bring your snorkling gear to add another
+        element to the adventure.</string>
+
+    <!-- Activity description for Paddle Boarding [CHAR LIMIT=NONE] -->
+    <string name="activity_description_paddleBoarding">Practiced by Hawaiians for centuries,
+        Stand-Up Paddle Boarding (SUP) was rediscovered about ten years ago by surfers in Hawaii.
+        The sport is correctly named as enthusiasts not only surf on the oversized boards, but also
+        glide (paddle along the coast), explore the estuaries of Costa Rica, fish off of them or
+        simply use them as a great workout. The technique can be mastered in about an hour, which
+        makes SUP a great vacation activity.  The board has a leash that attaches to the ankle or
+        knee of the stand up paddle boarder, turning the board into your own personal flotation
+        device. Many people enjoy the perspective that SUP provides and often say it feels like
+        walking on water. It is a great activity to do as a group as there is plenty of time to
+        converse while SUP. Be sure to use sunscreen and consider a rash guard or other clothing as
+        the stand up paddle boarder spends nearly all of his time out of the water.</string>
+
+    <!-- Activity description for Rafting [CHAR LIMIT=NONE] -->
+    <string name="activity_description_rafting">Costa Rica is known for its amazing network of
+        rivers and streams, and rafting tours offer great floats on Class 2 and 3 rivers. Many great
+        outfitters offer rafting tours with English speaking guides and professional equipment to
+        provide incredible and unforgettable white water experience.</string>
+
+    <!-- Activity description for Surfing [CHAR LIMIT=NONE] -->
+    <string name="activity_description_surfing">Tamarindo has been known as the ultimate surf town
+        for many years. The iconic movie Endless Summer 2 put Tamarindo on the map as an
+        international surfing destination. It truly is a surfing paradise, drawing surfers from
+        around the globe. One of the greatest attractions is the diversity and consistency of the
+        surf, not to mention the year round balmy water temperatures. There are surf spots for all
+        levels, and Tamarindo is ranked as one of the Top 10 beaches in the world for learning to
+        surf.  There are many surf schools, as well as surf camps. For miles to both the north and
+        the south of Tamarindo, world class surfing can be found at numerous uncrowded beaches.
+    </string>
+
+    <!-- Activity description for Zipline [CHAR LIMIT=NONE] -->
+    <string name="activity_description_zipline">A challenge best left for all the Survivor and Fear
+        Factor wannabes, this Costa Rican zip line canopy tour leaves no time for hanging about.
+        Zoom through the tropical tree tops on one of the many zipline tours within a short distance
+        from Tamarindo. The region is filled with many zip line parks. Proving Tamarindo is much
+        more than just white sandy beaches and world-class surf spots, take half a day away from the
+        waves and sign up for one of the most exciting adventures in Costa Rica, the zip-line
+        capitol.</string>
+
+    <!-- Sights titles -->
+    <!-- Sights title for Llanos de Cortez Waterfall [CHAR LIMIT=30] -->
+    <string name="sights_llanos">Llanos de Cortez Waterfall</string>
+
+    <!-- Sights title for Monkey Park [CHAR LIMIT=30] -->
+    <string name="sights_monkeyPark">Monkey Park</string>
+
+    <!-- Sights title for Palo Verde National Park [CHAR LIMIT=30] -->
+    <string name="sights_paloVerde">Palo Verde National Park</string>
+
+    <!-- Sights title for Rincon de La Vieja [CHAR LIMIT=30] -->
+    <string name="sights_rinconVieja">Rincon de La Vieja</string>
+
+    <!-- Sights title for Rio Celeste [CHAR LIMIT=30] -->
+    <string name="sights_rioCeleste">Rio Celeste</string>
+
+    <!-- Sights title for Rio Perdido [CHAR LIMIT=30] -->
+    <string name="sights_rioPerdido">Rio Perdido</string>
+
+    <!-- Sights title for Turtle Nesting [CHAR LIMIT=30] -->
+    <string name="sights_turtles">Turtle Nesting</string>
+
+    <!-- Sights descriptions -->
+    <!-- Sights description for Llanos de Cortez Waterfall [CHAR LIMIT=NONE] -->
+    <string name="sights_description_llanos">The Llanos de Cortez Waterfall is less than a two-hour
+        drive from Tamarindo. Once you reach the bottom of the trail, you’ll see why Llanos de
+        Cortez is considered to be one of Costa Rica’s most beautiful waterfalls. The falls are wide
+        and wispy, with streams of water tumbling along the mossy rocks. Rocky cliffs are visible
+        through the transparent cascade. To add to the grandeur, thick forest surrounds the falls
+        with many birds and monkeys bellowing from the trees. At the base of the falls is a nice
+        pool, good for swimming or wading, and there is a sandy area to just hang out and relax. If
+        you want to explore, walk along the banks of the river to see frogs and tadpoles, small
+        fish, and the Jesus Christ Lizard (it can actually run across the surface of the water).
+        Behind the falling waterfall is shallow cave to explore.</string>
+
+    <!-- Sights description for Monkey Park [CHAR LIMIT=NONE] -->
+    <string name="sights_description_monkeyPark">About a 20 minute drive north of Tamarindo is
+        Monkey Park. Not ot be confused with being a zoo, as all of the animals have come from being
+        rescued. Monkey Park is a non-profit foundation that has made itself available to the
+        indigenous wildlife of Costa Rica in order to provide a safe and experienced environment for
+        the local wildlife’s rehabilitation and release needs. Its staff and program have been
+        expertly tailored to benefit a balanced ecology by providing educational opportunities for
+        visitors. Simply put, animals at Monkey Park are set up to allow the opportunity to behave
+        as they would in the wild.</string>
+
+    <!-- Sights description for Palo Verde National Park [CHAR LIMIT=NONE] -->
+    <string name="sights_description_paloVerde">Palo Verde National Park has a uniquely dichotomous
+        character.  It’s simultaneously a spectacular wetlands and one of the best examples of
+        tropical dry forests remaining anywhere in the world.  Birds are the biggest attraction at
+        the park. Many of the resident tropical bird species nest on Isla de Pajaros in the Río
+        Tempisque. This island in the river provides a safe nesting place for Egrets, Spoonbills,
+        Storks, Herons, and many others to breed. Variegated Squirrels, Howler Monkeys, Coatis,
+        Capuchin Monkeys, Deer and Peccaries can also be seen in the park.  Note – the river is not
+        a good place to swim, as this is where you will see crocodiles sunbathing along the banks of
+        the river.</string>
+
+    <!-- Sights description for Rincon de la Vieja [CHAR LIMIT=NONE] -->
+    <string name="sights_description_rinconVieja">Rincon de la Vieja is about a 90 minute drive from
+        Tamarindo, and is located about 30 minutes northwest of Liberia. It is one of 6 active
+        volcanos in Costa Rica. There are 9 eruptive craters along its ridge, so if you are an avid
+        hiker, you will have to check in with the ranger station before heading out to explore the
+        many miles of trails. On clear day from the top you will be able to see the Pacific and the
+        Gulf of Mexico. There are canopy tours, horseback riding, river rafting and ATV tours in the
+        available in the immediate area.  Also, be sure to bring your swimsuit, so you can enjoy one
+        of the many local hot springs. </string>
+
+    <!-- Sights description for Rio Celeste [CHAR LIMIT=NONE] -->
+    <string name="sights_description_rioCeleste">Located about two hours north east of Tamarindo is
+        the Tenorio and Miravalles volcanic area.  Although both volcanoes are considered dormant,
+        there is still a great deal of geologic activity within this locale: geysers shoot water
+        into the air and hot springs bubble up from below ground. Even better, and much more famous,
+        is the Río Celeste, a river whose blue-tinted waters are the result of a chemical mixture
+        produced by the Tenorio Volcano. Exploration of the Tenorio Volcano National Park is
+        rewarding, as it hosts rivers and waterfalls amidst a dense forest setting. These forests
+        provide a unique habitat for animals such as ocelots and jaguars and can be toured on either
+        foot or horseback.</string>
+
+    <!-- Sights description for Rio Perdido [CHAR LIMIT=NONE] -->
+    <string name="sights_description_rioPerdido">Rio Perdido is actually a resort about 2 hours from
+        Tamarindo.  It offers a unique experience for a day trip or a vacation stay. Once within the
+        600-acre private reserve, you are drawn into a deep and beautiful canyon where a thermo-
+        mineral river literally emanates from the steep rock walls. You can soak in one of the
+        dozens of natural thermal pools along a mile of thermal river, or you can opt for a long
+        therapeutic massage in our world-class spa. Other options are the unique canyon zip line
+        adventure, giving a birds eye view of the Rio Blanco Canyon.</string>
+
+    <!-- Sights description for Turtle Nesting [CHAR LIMIT=NONE] -->
+    <string name="sights_description_turtles">Just north of Tamarindo is Playa Grande, home to the
+        2nd largest nesting site for Leatherback sea turtles in the entire world. The Leatherback
+        sea turtle can grow into one of the largest reptiles in the world and is seen here for
+        months at a time at Las Baulas. Not only is turtle watching unmatched elsewhere, Playa
+        Grande also features a turtle research facility, with researches that will take guests to
+        view turtle nesting at night. Laying and hatching seasons begin in October and end in
+        March.</string>
+
+    <!-- Beach titles -->
+    <!-- Beach title for Playa Avellanas [CHAR LIMIT=20] -->
+    <string name="beach_avellanas">Playa Avellanas</string>
+
+    <!-- Beach title for Playa Brasilito [CHAR LIMIT=20] -->
+    <string name="beach_brasilito">Playa Brasilito</string>
+
+    <!-- Beach title for Playa Conchal [CHAR LIMIT=20] -->
+    <string name="beach_conchal">Playa Conchal</string>
+
+    <!-- Beach title for Playa Danta [CHAR LIMIT=20] -->
+    <string name="beach_danta">Playa Danta</string>
+
+    <!-- Beach title for Playa Flamingo [CHAR LIMIT=20] -->
+    <string name="beach_flamingo">Playa Flamingo</string>
+
+    <!-- Beach title for Playa Grande [CHAR LIMIT=20] -->
+    <string name="beach_grande">Playa Grande</string>
+
+    <!-- Beach title for Playa Langosta [CHAR LIMIT=20] -->
+    <string name="beach_langosta">Playa Langosta</string>
+
+    <!-- Beach title for Bahia de los Piratas [CHAR LIMIT=20] -->
+    <string name="beach_bahia">Bahia de los Piratas</string>
+
+    <!-- Beach title for Tamarindo [CHAR LIMIT=20] -->
+    <string name="beach_tamarindo">Tamarindo</string>
+
+    <!-- Beach descriptions -->
+    <!-- Beach description for Playa Avellanas [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_avellanas">Avellanas is one of the most beautiful beaches in
+        the Tamarindo area. There is nothing but pristine beach wilderness. The long ribbon of beach
+        reaches north to Playa Langosta and south to Playa Negra. Some stretches are rocky and
+        feature tide pools. Other parts have powdery white coral sand and turquoise water. One of
+        the biggest attractions to Playa Avellanas are some of the best surf spots in Costa Rica,
+        drawing surfers from all over the world.</string>
+
+    <!-- Beach description for Playa Brasilito [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_brasilito">This dark sand beach is situated right next to
+        Playa Conchal. There is an awesome little island down toward the north end that strong
+        swimmers can paddle out to. Lots of locals use this beach, so it is the perfect place to
+        grab a beer and meet people.</string>
+
+    <!-- Beach description for Playa Conchal [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_conchal">Named for the millions of crushed seashells that
+        wash upon its shores, Playa Conchal is a shimmering beauty of pink sand and turquoise sea.
+        This idyllic stretch of beach is set in a curved bay overlooking the Catalina Islands, known
+        as a great spot for snorkeling and diving. On a good day the water is so clear you can see
+        straight to the bottom even in very deep water. As you walk along the beach southward toward
+        the estuary, the sand gets whiter and finer (like powdered sugar). Also, there is an open
+        air market fronting the beach, where visitors can purchase local handicrafts.</string>
+
+    <!-- Beach description for Playa Danta [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_danta">Danta and its sister beach, Dantita ("Little Danta")
+        are gorgeous, light-sand beaches just outside of the luxurious Las Catalinas development.
+        There is a little shop called "Pura Vida Ride" where you can rent paddleboards and mountain
+        bikes.</string>
+
+    <!-- Beach description for Playa Flamingo [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_flamingo">This white-sand, crescent-shaped beach is nothing
+        short of dreamy. Sometimes you can spot little rays surfing the gentle waves in the bay.
+        The water is beautiful here, often shining in multiple shades of turquoise, green and
+        blue. </string>
+
+    <!-- Beach description for Playa Grande [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_grande">Another great surf spot.  The beach of Playa Grande is
+        long strip of fine, pale sand backed by a coastal vegetation. The beach is mostly uncrowded.
+        When there you must be careful to avoid stepping on the soft-sanded upper part of the beach,
+        as you might destroy turtle egg layings. Playa Grande belongs to the National Park Las
+        Baulas and is home to an important nesting site of leatherback sea turtles. After sundown no
+        visitors are allowed on the beach, unless they are accompanied by a park guide. </string>
+
+    <!-- Beach description for Playa Langosta [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_langosta">Situated directly south of Playa Tamarindo, Playa
+        Langosta is home to some of the best surfing in the area. white-sand dunes and the scenic
+        estuary of the Rio San Francisco. Around low tide you can cross the river by wading through
+        waist-high water at the outer edge of the river mouth. Playa Langosta is known as a great
+        spot to relax and feel the sand between your toes. However, sometimes there are strong
+        currents here, so be careful if you have little kids</string>
+
+    <!-- Beach description for Bahia de los Piratas [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_bahia">This known locally as the "secret beach". This
+        postcard-perfect beach is fantastic for snorkeling, and not many vacationers know about it.
+        Drive like you are going to Playa Grande, but take a right instead of a left at the town of
+        Matapalo. Follow the signs and when in doubt ask someone for directions. </string>
+
+    <!-- Beach description for Playa Tamarindo [CHAR LIMIT=NONE] -->
+    <string name="beaches_description_tamarindo">Playa Tamarindo has been known as the ultimate surf
+        stop in Costa Rica for many years, and there are surf spots for all levels. With a long
+        stretch of sand, warm ocean, many tide pools and consistent waves, it is a water lovers
+        paradise. It is located at about a 50 minute drive from the international airport in
+        Liberia, and considered to be the regional central hub for beach activities. </string>
+
+    <!-- Dining titles -->
+    <!-- Dining title for Black Stallion Cafe and Surf Saloon [CHAR LIMIT=30] -->
+    <string name="dining_black">Black Stallion Cafe and Surf Saloon</string>
+
+    <!-- Dining title for Dragonfly Bar and Grill [CHAR LIMIT=30] -->
+    <string name="dining_dragon">Dragonfly Bar and Grill</string>
+
+    <!-- Dining title for Green Papaya [CHAR LIMIT=30] -->
+    <string name="dining_green">Green Papaya</string>
+
+    <!-- Dining title for Longboards BBQ [CHAR LIMIT=30] -->
+    <string name="dining_longboards">Longboards BBQ</string>
+
+    <!-- Dining title for La Baula [CHAR LIMIT=30] -->
+    <string name="dining_baula">La Baula</string>
+
+    <!-- Dining title for Latitude Blue [CHAR LIMIT=30] -->
+    <string name="dining_latitude">Latitude Blue</string>
+
+    <!-- Dining title for Nogui's [CHAR LIMIT=30] -->
+    <string name="dining_noguis">Noguis</string>
+
+    <!-- Dining title for Seasons by Shlomy [CHAR LIMIT=30] -->
+    <string name="dining_shlomy">Seasons by Shlomy</string>
+
+    <!-- Dining title for Sprout [CHAR LIMIT=30] -->
+    <string name="dining_sprout">Sprout</string>
+
+    <!-- Dining descriptions -->
+    <!-- Dining description for Black Stallion Cafe & Surf Saloon [CHAR LIMIT=NONE] -->
+    <string name="dining_description_black">Self-described as Costa Rican cowboy saloon with a
+        surfer twist. Offering a private and exclusive rustic ranch style evening.  Specializes in
+        small groups, such as special events for families and friends. The BBQ is outside in a shack
+        under the stars, where people relax in the cafe or saloon, which have a unique rustic wood
+        design. </string>
+
+    <!-- Dining description for Dragonfly Bar & Grill [CHAR LIMIT=NONE] -->
+    <string name="dining_description_dragon">Dragonfly is beloved for its refined menu and its
+        upscale tiki-bar atmosphere. The open-air dining room has twinkling lights and lanterns,
+        with a subtle dragonfly motif throughout. The eclectic menu leans Asian, but fuses elements
+        from around the world. Go for the Buddha Bowl filled with goodness or the fiery Thai beef
+        served on glass noodles. Desserts are also divine.</string>
+
+    <!-- Dining description for Green Papaya [CHAR LIMIT=NONE] -->
+    <string name="dining_description_green">Swing on up to the bar for a breakfast burrito or pull
+        up a tree-stump stool to sample the terrific tacos at this fantastic new addition. The mahi
+        mahi tacos are perfection in a tortilla, while non-meat eaters will appreciate the multiple
+        veggie options. You will go loco for the Coco Loco dessert. Everything is funky, fresh and
+        friendly.</string>
+
+    <!-- Dining description for Longboards BBQ [CHAR LIMIT=NONE] -->
+    <string name="dining_description_longboards">An American-style BBQ joint and expat favorite,
+        with pulled pork, ribs and beef brisket. Belly up to the surfboard-shaped tables and grind
+        some proper BBQ. The bartenders also mix some potent drinks and (often) show US sports on
+        the TVs.  A great place to catch the big game while being on vacation, and enjoy some
+        great BBQ.</string>
+
+    <!-- Dining description for La Baula [CHAR LIMIT=NONE] -->
+    <string name="dining_description_baula">The best pizza in Tamarindo by some accounts. This
+        casual open-air restaurant has real wood-fired pizzas with a wide variety of toppings, as
+        well as pastas and other Italian fare. It’s also one of the most family-friendly restaurants
+        in town, with a playground to keep the kids entertained. However; with the open-air, woodsy
+        setting you will probably need some insect repellent.</string>
+
+    <!-- Dining description for Latitude Blue [CHAR LIMIT=NONE] -->
+    <string name="dining_description_latitude">Sitting directly on the beach, Latitude Blue provides
+        a large gourmet menu and unique entertainment.  Enjoy the ocean breeze and gorgeous sunset,
+        while enjoying delicious food and listening to live music.</string>
+
+    <!-- Dining description for Nogui's [CHAR LIMIT=NONE] -->
+    <string name="dining_description_noguis">This friendly fish shack has one of the best beachfront
+        locations in town. Its a perfect perch for a sunset drink or seafood dinner. Theres nothing
+        special going on with the food – just basic preparations served in paradise. This is a great
+        place to stop for a cold beverage and a great burger when returning from an ocean adventure.
+        </string>
+
+    <!-- Dining description for Seasons by Shlomy [CHAR LIMIT=NONE] -->
+    <string name="dining_description_shlomy">Seasons by Shlomy offers poolside dining with a
+        Mediterranean fusion menu. Don’t leave town without eating here. Israeli chef Shlomy offers
+        a short list of carefully selected and perfectly prepared dishes. Depending on the
+        availability of ingredients, you might start with grilled octopus or a lobster-leek terrine.
+        Follow up with seared tuna in a honey chili marinade or filet mignon in red wine sauce.
+        Perfection on a plate. The understated yet elegant open-air restaurant has indoor seating
+        and romantic poolside tables. Reservations are recommended.</string>
+
+    <!-- Dining description for Sprout [CHAR LIMIT=NONE] -->
+    <string name="dining_description_sprout">Delicious lunch and dinner made only from fresh,
+        organic, and locally sustainable ingredients. A friendly family environment; right across
+        from the beach (directly across from Witches Rock Surf Camp). Sprout exists to provide the
+        community of Tamarindo and the surrounding towns with a restaurant option that is healthy,
+        fresh, and sustainable yet prepared at the highest of culinary standards.</string>
+
+</resources>
+
